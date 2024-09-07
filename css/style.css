@@ -1,4 +1,6 @@
-
+*{
+    list-style: none;
+}
 
 nav{
     background-color: rgba(249,248,242);
@@ -20,7 +22,7 @@ h1{
 
 .first{
 
-    background-color:  rgba(249,248,242);
+    background-color:  rgb(249,248,242);
     padding-top: 35px;
 }
 
@@ -64,6 +66,122 @@ h1{
     font-size: 20px;
 }
 
-.icons{
-    width: 40px;
+.iconsmid{
+    background-color:rgb(234, 234, 234);
+    padding: 10px;
+    margin: 5px 0px;
+    border-radius: 5px;
+}
+
+.grupicn{
+    width: 250px;
+}
+
+.txtcorr{
+    font-size: 13px;
+}
+
+.blocks{
+    margin: 80px 0px;
+    align-items: center;
+}
+
+.blocks2{
+    margin: 80px 0px;
+    align-items: center;
+    margin-top: 90px;
+}
+
+
+
+h2{
+    text-align: center;
+}
+
+.oqp{
+    background-color: rgb(249,248,242) ;
+}
+
+.oqp>div{
+    padding-left: 35%;
+}
+
+.oqp2{
+    background-color: rgb(249,248,242) ;
+    padding-top: 15px;
+
+}
+
+.oqp3{
+    background-color: rgb(249,248,242) ;
+    padding-top: 50px;
+
+}
+
+
+ul>li{
+    font-size: 9px;
+    display: inline-block;
+    padding: 0px 15px;
+}
+
+ul{
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+.depp{
+    width: 200px;
+}
+
+.deplj{
+    font-size: 8px;
+    padding-left:10px ;
+}
+
+.wdtdp{
+    width: 50%;
+}
+
+.buttprin2{
+    border-radius: 25px;
+    padding: 8px 48px;
+    margin-top: 15px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid  rgb(32, 147, 9);
+    color: rgb(32, 147, 9);
+}
+
+.pd_ant{
+    padding: 50px 80px;
+}
+
+.col-bd{
+    border-left: 2px solid rgb(216, 216, 216);
+}
+
+.btn-ft{
+    background-color: rgb(15,133,106);
+    color: rgb(255, 255, 255);
+    float: right;
+    border: none;
+    padding: 8px 9px;
+    border-radius: 5px 5px 0px 0px;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+footer{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: rgb(1,24,39);
+    padding-top: 18px;
+}
+
+.tam>li{
+    font-size: 15px;
+}
+
+.tam{
+    padding-left: 15px;
 }
